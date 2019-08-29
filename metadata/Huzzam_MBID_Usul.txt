@@ -1,0 +1,48 @@
+0ca3cad0-ea0d-424a-856f-023df26b2c09: Usul not provided.
+0fbb13d9-823d-4f93-af9f-f5e14e032f10: duyek
+1ac5e86a-9572-4acd-bf65-2b01ee06b672: serbest
+220a57b5-3e8a-4a22-93ed-e7400e6844c4: duyek
+29d20bf1-678f-4bd0-9e65-81c651d1dab7: aksaksemai
+2c2b51b3-150b-4693-9383-9c467cbbdadd: aksak
+32c3522a-e325-4e58-8a0a-0876a800823a: devr-i hindi
+3799145c-529c-41d2-998a-948a9292f4d8: aksak
+3b6879d4-7838-4f4e-8ebd-dce5d830fbe7: nimsofyan
+4df2f27a-fca8-4166-9674-250855492187: curcuna
+5b9713dd-de22-46e4-8037-e632f08caa80: serbest
+5fdff117-17a5-4d1a-88e7-c852efee9f35: duyek
+69034c37-4aff-4ca8-8186-7a7a5a3928a4: serbest
+690808ca-d4b0-4c5c-8ac2-3035489a3596: serbest
+6d13d17b-dbc1-4cc2-ad65-f2ccbb99f558: duyek
+9337924d-ff88-4ed2-85d0-35fddb2e1eee: serbest
+9e02612c-5a0f-4d34-a627-773d86eb8532: curcuna
+afcf5cc4-a0b5-4c8f-82a7-b90c54ed93fb: turkaksagi
+c9a7c100-a7c5-4e9e-a16b-c7576ffd815f: Usul not provided.
+d445c964-b358-477f-9eee-5a7724a02257: Usul not provided.
+da4d7b0b-af8f-42ea-bce0-0bda85fa6801: duyek
+dab34f13-7eec-4f87-8fb7-2d3b1ba24398: curcuna
+e23037e6-f90e-4ee2-a557-7eb5b51d54fe: serbest
+e2e5febb-1ad2-4478-adf6-47e4ee534b16: curcuna
+e327471c-d546-4a74-9ed8-d25f819fc677: serbest
+e652dfd7-79fc-4dd7-83ae-e586c62c45c4: curcuna
+febbbd9f-12bb-4e1f-8d09-9efc10fbe9ec: curcuna
+66b611e8-7c17-4256-afa5-3a97a457f8e3: serbest
+a1396cd4-6215-4ba5-9e9b-d960ef3444ad: ciftesofyan
+c6089405-6f18-4562-8c24-fff2adc42eee: Usul not provided.
+0f7259dc-a41a-4cff-ab2a-48de40474409: aksak
+3f3e1190-87d1-4750-ad65-92fc27e5a67d: serbest
+44d4706b-a471-4ccf-974c-e1cb883660ca: duyek
+4fdc0683-7885-48c3-9487-e4d087a8b6be: aksaksemai
+54b04664-e30b-405f-afa2-af1c80187b28: muhammes
+5f135ea4-abc1-4b55-8335-722f059321a5: duyek
+88be7dae-35d6-47c3-be09-be06d50a2659: duyek
+9223f1dd-ff78-4df4-a0f6-25049c5c671f: serbest
+98d12227-83d7-4c17-b203-144b66e335cb: aksaksemai
+a1facf99-2565-4e66-b595-397ee79c3a75: semai
+acc2c656-a980-44fa-8f88-9d0c89ca1a4c: duyek
+b850602d-c802-4a0c-af7f-3d872b16d3a5: serbest
+ea7e2b41-e009-48f9-88e3-9fcf9854d9f9: a\xc4\x9f\xc4\xb1ra
+fa8a4b53-bafb-467c-84ea-3089c28f9463: aksak
+59dde1f8-ad30-41f0-9017-1c5b505ef9a0: aksak
+ca96f38a-884a-468c-a579-9b56401fc796: serbest
+da74c2f4-40c2-473e-8982-88d224d63ed2: serbest
+ee0a4b14-d968-4467-b418-3051b5818152: curcuna

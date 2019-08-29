@@ -1,0 +1,46 @@
+03bcfc5c-4a34-490f-bdfa-1c8c2766bb50: aksaksemai
+09ebd228-ac3a-412c-ab47-3a138156eeeb: duyek
+0eac190d-13c4-442f-bb13-cf734d3cbe88: yuruksemai
+15434940-b1f0-4ca4-9c7f-8a09b09d9bc2: yuruksemai
+294d2739-676b-4199-980d-0a9282562f46: serbest
+3169d091-28e2-439f-96d5-54f54ae372b7: Usul not provided.
+36944934-556a-42d9-9360-690a306c5d1f: serbest
+3886ae81-8863-483a-bbef-69af1e3d098e: Usul not provided.
+3a29097a-a453-4d25-b601-d8113004655a: devr-i turan
+3b014584-cbe2-4042-99ec-93249f43c040: Usul not provided.
+3b4b9ccf-475b-4d0d-a16d-c42c9dbb0f85: serbest
+53bb5a93-7602-4645-9473-d295f6c11d79: nimsofyan
+5e2bce2b-b588-41bf-ab7d-77391593aaa3: serbest
+634adddd-da66-4fd5-8058-c91a6ad9ad8e: aksak
+6f26af11-7e51-4a2f-bca7-736a9c47fb3e: aksak
+75a68ff2-7fe0-4012-afbe-f4de3b8a9a7d: turkaksagi
+793903a9-bae8-482d-a77b-74f9dfe14f9c: serbest
+79872743-3d11-4966-abdc-218556c192e0: serbest
+7a761e89-a5a8-42c2-ba69-b7cbed15bb30: aksaksemai
+81a9ae33-e801-48a6-9d4c-19d2565cf881: duyek
+8b8d697b-cad9-446e-ad19-5e85a36aa253: aksaksemai
+8ee7ab25-16d6-4728-8dca-7399275aa74c: Usul not provided.
+9521c36a-68bc-4126-ba71-21b214ed1222: serbest
+9ae02585-75a9-4de7-8044-143007be8c66: sofyan
+a7db1bcc-1944-4cae-942a-a2b1cd8ef366: serbest
+a8ff9420-e55f-4af7-9089-3fe29686bc54: curcuna
+cbcf2d1c-8371-4a57-8893-a1958ed001d3: aksak
+d7128150-850e-4903-bfcf-0eaf513e44b3: devr-i hindi
+daf07386-b395-46a8-9e41-d9dbbcabaef9: nimsofyan
+e259c2cc-6b0c-402b-a1a8-6396beab7e3f: aksak
+e92e94b8-f294-4ddb-8652-8dea3ac8ac21: nimsofyan
+e9d04c33-5d2f-401e-ba12-df84fdb7a8c4: duyek
+f0e215c0-49f8-4962-8263-590dfff02a31: duyek
+f295cacc-99c0-4c51-9fbd-1d5f6fc5e86b: aksaksemai
+fc154485-c59d-4756-b997-73c7d05492ab: yuruksemai
+165d6ba9-fa99-4a17-ad39-bcdf8c73e1f6: sofyan
+4b518ca5-649b-4b1e-b4f1-f8cf35e784ec: nimsofyan
+8b5317f7-43f3-41ee-b4ed-1391dd229028: serbest
+9290f984-d781-4046-baf6-284da7ef5232: sofyan
+a540b3b2-5e3a-4086-866a-b69d6607ee69: serbest
+b9c3e50e-45ce-46bf-a289-5d15123be49f: aksak
+c3e5716e-7e66-430f-98f7-1c89bf7b3ab6: serbest
+cccf944d-c237-43e0-82ac-e1c29dbc1b62: muhammes
+d057a9cb-ac8e-4ae8-a3d3-a908a7f80ff4: aksaksemai
+7d781ded-ceb2-41ff-8172-edc3dee9c674: Usul not provided.
+f517a4a5-91da-4c80-9e78-447571073a3b: serbest

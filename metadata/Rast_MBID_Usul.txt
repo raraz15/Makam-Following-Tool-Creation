@@ -1,0 +1,50 @@
+10b18a18-7ea6-4fdd-bb39-ee1528b4e31b: agirduyek
+00be9a4b-b85f-4601-a6d5-9ce1f5b3f91c: Usul not provided.
+0610a79c-4b5b-4361-a355-ed4a8155ab65: nimsofyan
+093694de-1920-4639-8586-5c78756a5232: serbest
+0967e5b6-8bff-45b3-9926-e9cb3d244463: duyek
+0bc4be21-73b1-4f6b-80fb-5344f893d361: serbest
+0c39e75b-d9c7-4cd1-9ac8-db49ca130cfe: serbest
+0c7c2527-143c-4b37-b031-4b35843c756f: serbest
+149d651a-616e-49a9-8c76-036baa62ad9d: yuruksemai
+1701ceba-bd5a-477e-b883-5dacac67da43: curcuna
+179a80ad-d2e1-42ab-8e2a-b5307322925e: duyek
+1d0fba1b-91fb-4e09-bc71-86d750f72d83: sofyan
+26da8cac-5757-4494-a214-25ad564fc292: aksak
+34de42fa-24c2-4442-a1b2-6fa5f955b845: cifteduyek
+3c729006-0bbe-456c-8e54-9bb5523493fe: serbest
+3e83ae71-0b22-49b1-b601-a5918063989f: duyek
+5a372d52-2dd0-445e-9607-875c36beb29c: duyek
+6c48b93f-16fa-4adc-bf7b-26652f64defb: senginsemai
+79ab9218-ceda-42c9-b2c6-5bfe0128ba24: duyek
+7aec9833-6482-4917-87bd-e60c7c1dae3c: Usul not provided.
+89b0307e-1004-4801-9656-aa241241c600: serbest
+96702cde-f5f4-4d05-b6b7-750dccb49078: serbest
+9c389567-926c-4ba8-abac-c445565361df: serbest
+9d0c6119-983c-44ca-9e6e-c97bb148bd56: agirduyek
+b1e0c3ae-7070-4d80-80f3-2875a3802226: duyek
+c2de5592-85fa-4884-9bab-ee20578104d6: serbest
+d24742bd-48cf-4ed9-be36-62ffe373b952: aksak
+d9cdfff9-fe30-4064-b271-f97dbcf6071b: duyek
+ed90604c-1702-4740-bddc-7a4f94f896a8: sofyan
+19cdd849-0f5a-4524-bbe4-cf4bc817160e: serbest
+1be9fb65-2301-4b3c-9e12-c5b6cccc575c: Usul not provided.
+316533cf-04fd-4416-8f32-ff84becc8a2e: sofyan
+385acc87-87ae-4197-ae8b-2226655ba304: sofyan
+789270e5-8f0e-4103-ae5c-981dbacdea5c: duyek
+8a1844c1-345d-4f02-aa63-791da862fdab: serbest
+b4930148-e5da-4c51-892f-896832e69832: serbest
+09bfd6ea-7e7f-427c-b837-93030e9bce42: duyek
+14011beb-2a00-4b33-a64a-75164a1c30a0: nimsofyan
+31bf3d56-03d8-484e-b63c-ae5ae9a6e733: devr-i kebir
+3235309a-1f01-411e-850e-fac3679de9fe: serbest
+48fb37f4-0db9-4bf9-8051-51640bbcf6f1: duyek
+9805d026-3310-4fec-90dc-e49e868d12d3: serbest
+c892812d-cc86-4d1c-a344-a4c6e775c039: semai
+dce1a83c-6be6-4d22-b742-d2a3d3892bd8: serbest
+0321f83e-bee5-4009-983b-1b4fe3c89f23: yuruksemai
+043e6254-5910-4f24-b2bc-973df2e589ba: serbest
+3245f3a6-827c-481f-a32a-afaabc58002b: serbest
+aebdad66-019e-49a8-8a4d-d1ba5dc19be8: Usul not provided.
+b466a80f-820e-4083-857f-2417d1551134: sakil
+e2e735a4-a034-4bc5-971e-ae5fa5969c7c: curcuna
